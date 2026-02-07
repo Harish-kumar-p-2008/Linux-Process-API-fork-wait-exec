@@ -25,14 +25,14 @@ Test the C Program for the desired output.
 
 ## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
 
-##OUTPUT
+## OUTPUT
 
 <img width="1031" height="78" alt="image" src="https://github.com/user-attachments/assets/b1ceb41c-f393-48ef-b996-9d68e44bf3b6" />
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
-##OUTPUT
+## OUTPUT
 
 <img width="1031" height="237" alt="image" src="https://github.com/user-attachments/assets/31778a66-5b83-4e1b-a2b0-0a885b9aa6cb" />
 
